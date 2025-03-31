@@ -96,7 +96,7 @@ async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     TOKEN = "TELEGRAM_TOKEN"
-    CSV_FILE_PATH = "boykot_listesi.csv"  # reason sütunu olan CSV
+    CSV_FILE_PATH = "boykot_listesi.csv"  # CSV
     
     products = load_products_from_csv(CSV_FILE_PATH)
     if not products:
