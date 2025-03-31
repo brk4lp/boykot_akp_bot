@@ -8,4 +8,4 @@ Uygun formatta listeye açıklaması ile birlikte ürün ve servis katkısında 
 
 Bota nasıl ulaşırım?
 -
-Telegram --> https://t.me/AKP_Boykot_bot
+Telegram --> https://t.me/AKP_BoykotBot
