@@ -4,7 +4,8 @@ AKP ile ilşiği olan ürün, servis, marka ve işletme sorgulama botu
 
 Katkı
 -
-Uygun formatta listeye açıklaması ile birlikte ürün ve servis katkısında bulunursanız sevinirim :)
+Boykot listesi daha yeni olduğu için tamamlanamadı...
+Listeye uygun formatta açıklaması ile birlikte ürün ve servis katkısında bulunursanız sevinirim :)
 
 Bota nasıl ulaşırım?
 -
